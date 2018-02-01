@@ -1,0 +1,22 @@
+{
+  "name": "rancolgen",
+  "version": "1.0.0",
+  "description": "rancolgen package.json",
+  "main": "site.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sasaprtvar3/random-color-generator.git"
+  },
+  "keywords": [
+    "rancolgen"
+  ],
+  "author": "Sasa Prtvar (https://github.com/sasaprtvar3)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sasaprtvar3/random-color-generator/issues"
+  },
+  "homepage": "https://github.com/sasaprtvar3/random-color-generator#readme"
+}
