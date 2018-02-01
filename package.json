@@ -1,10 +1,10 @@
 {
   "name": "rancolgen",
-  "version": "1.0.0",
+  "version": "5.6.0",
   "description": "rancolgen package.json",
   "main": "site.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node site.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/sasaprtvar3/random-color-generator/issues"
   },
-  "homepage": "https://github.com/sasaprtvar3/random-color-generator#readme"
+  "homepage": "https://github.com/sasaprtvar3/random-color-generator#readme",
+  "dependencies": {
+    "express": "4.16.2",
+    "foobar": "^1.1.0"
+  }
 }
