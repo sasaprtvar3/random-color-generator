@@ -4,7 +4,7 @@
   "description": "rancolgen package.json",
   "main": "site.js",
   "scripts": {
-    "start": "node site.js"
+    "start": "localhost:3000"
   },
   "repository": {
     "type": "git",
